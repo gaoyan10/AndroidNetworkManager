@@ -1,5 +1,5 @@
 # AndroidNetworkManager
-a library for check network available on Android, which use ping to get the real network status.
+a library for check network available on Android, which uses ping to get the real network status.
 
 How to use
 ---
